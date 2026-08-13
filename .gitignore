@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+*.csv
+*.zip
+
+# ML artifacts
+artifacts/*.pkl
+artifacts/*.tar.gz
+*.pkl
+model.tar.gz
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS credentials
+.aws/
