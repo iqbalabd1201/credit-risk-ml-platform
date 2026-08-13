@@ -1,6 +1,6 @@
 # Credit Risk ML Platform
 
-[![CI](https://github.com/iqbalabdulr/credit-risk-ml-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/iqbalabdulr/credit-risk-ml-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/iqbalabd1201/credit-risk-ml-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/iqbalabd1201/credit-risk-ml-platform/actions/workflows/ci.yml)
 
 End-to-end machine learning project for credit default risk prediction using **LightGBM**, multi-table feature engineering, automated testing, Docker, and AWS SageMaker Serverless Inference.
 
